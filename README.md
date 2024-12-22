@@ -3,7 +3,7 @@
 
 ## Integrante:
 ```
-Luis Gonzalo Garey Tito
+Leandro Giuliano Torrez Cayo
 ```
 
 ## Enter Project
