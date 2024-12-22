@@ -1,0 +1,10 @@
+Practica 1 Vue3
+
+Nombre(s) de integrante(s):
+Leandro Giuliano Torrez Cayo
+
+
+Pasos para iniciar el proyecto
+0) cd contactos
+1) npm install
+2) npm run serve
